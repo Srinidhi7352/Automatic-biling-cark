@@ -39,4 +39,5 @@ Maintenance and Costs: Regular maintenance and battery replacements are necessar
 CONCLUSION:
 The integration of RFID technology into shopping carts presents a significant improvement over traditional checkout methods. By automating the billing process and providing real-time updates, the system enhances the shopping experience and reduces wait times. While there are some challenges, such as the need for regular maintenance and potential inconvenience for single-item purchases, the benefits of faster and more accurate billing are substantial. Future developments could focus on expanding the RFID range and incorporating additional features to further improve the system's efficiency.
 
+![image](https://github.com/user-attachments/assets/a69c0191-5b0f-497e-b67c-5c5a66a33eef)
 
