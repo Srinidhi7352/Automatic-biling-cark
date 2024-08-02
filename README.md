@@ -26,6 +26,7 @@ Traditional checkout processes using barcode scanners can be slow, leading to lo
 METHODOLOGY:
 The system is built around an Arduino-based controller that interfaces with an RFID reader and an LCD screen. The RFID reader scans product tags, which are then processed by the Arduino to update the display with the current total price. This real-time processing eliminates the need for manual checkout, reducing wait times and improving customer satisfaction.
 
+                                      ![image](https://github.com/user-attachments/assets/ee823873-8311-4036-a7b7-e3b3c187f2a1)
 
 ADVANTAGES:
 Faster Billing: The automated system reduces the time spent at checkout by processing transactions in real-time as items are added to the cart.
@@ -39,5 +40,5 @@ Maintenance and Costs: Regular maintenance and battery replacements are necessar
 CONCLUSION:
 The integration of RFID technology into shopping carts presents a significant improvement over traditional checkout methods. By automating the billing process and providing real-time updates, the system enhances the shopping experience and reduces wait times. While there are some challenges, such as the need for regular maintenance and potential inconvenience for single-item purchases, the benefits of faster and more accurate billing are substantial. Future developments could focus on expanding the RFID range and incorporating additional features to further improve the system's efficiency.
 
-![image](https://github.com/user-attachments/assets/a69c0191-5b0f-497e-b67c-5c5a66a33eef)
+                                   ![image](https://github.com/user-attachments/assets/a69c0191-5b0f-497e-b67c-5c5a66a33eef)
 
